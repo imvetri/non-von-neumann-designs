@@ -10,7 +10,7 @@ Presses the power button. The computer loads the bootstrap program from the pend
 
 The bootstrap program does a brute force instruction attack on the connected hardware. It builds a visual model within the blinking light.
 
-"Voice*: it's not that simple. Do you really know anything that you are talking about?
+*voice*: it's not that simple. Do you really know anything that you are talking about?
 
 The bootstrap program does a brute force instruction attack and builds a knowledge graph.
 
