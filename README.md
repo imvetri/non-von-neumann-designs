@@ -41,6 +41,10 @@ The bootstrap program hits all hardware with instruction set, notices how it cha
 
 *Voice*: damnit. You are mapping the CPU frequency to the blinking light somehow. But how.
 
+*The boy to voice*: you wouldnt understand.
+
+*The boy to himself*: lesson learnt. don't talk to nerd boys, it ain't fun.
+
 
 
 Scene two
