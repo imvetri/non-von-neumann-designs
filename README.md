@@ -29,7 +29,7 @@ The bootstrap program hits all hardware, collects changes and the dark neural fl
 *Voice*: you don't know nothing about AI. That's not how it works.
 
 
-The bootstrap program hits all hardware with instruction set, notices how it changes the behaviour of the hardware, learns from the changes and feeds it to the dark neural around the blinking light that starts to take a shape. The shape is visible only when you so the screen using mouse towards the blinking light. The blinking light is relevant to the frequency of the CPU.
+The bootstrap program hits all hardware with instruction set, notices how it changes the behaviour of the hardware, learns from the changes and feeds it to the dark neural around the blinking light that starts to take a shape. The shape is visible only when you scroll the screen using mouse towards the blinking light. The blinking light is relevant to the frequency of the CPU.
 
 
 *Voice*: Really? Do you think the technology world is there yet? Do you think the monitor can reflect or make the light blink at the rate of the CPU frequency?
