@@ -8,4 +8,4 @@ Kid jumps to bios and turns on "boot from usb" option and saves it. Takes the pe
 Presses the power button. The computer loads the bootstrap program from the pendrive. Sees a blinking light at the center of the screen
 
 
-The light
+The bootstrap program does a brute force instructions attack on the connected hardware. It builds a visual model within the blinking light. 
